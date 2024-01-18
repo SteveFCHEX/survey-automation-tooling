@@ -1,0 +1,33 @@
+{
+  "surveyId": "ai3SCG8Q",
+  "description": "UCLA Thoracic: Incentive Spirometer",
+  "typeformFieldMappings": [
+    {
+      "typeformBlockId": "01H9R5M56HC45KY9D2G7THE7AJ",
+      "factName": "SURVEY_AI3SCG8Q_Q1",
+      "dataType": "STRING",
+      "mappingType": "LABEL",
+      "labelValuePairs": [
+        {
+          "label": "Fewer than 10 times per day",
+          "value": "1"
+        },
+        {
+          "label": "Between 10-20 times per day",
+          "value": "2"
+        },
+        {
+          "label": "More than 20 times per day",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "typeformBlockId": "cd0332f1-c285-44ea-9c91-2e5f945eb733",
+      "factName": "SURVEY_AI3SCG8Q_Q2",
+      "dataType": "DOUBLE",
+      "mappingType": "PARSED",
+      "labelValuePairs": []
+    }
+  ]
+}

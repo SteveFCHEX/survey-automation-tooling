@@ -1,0 +1,84 @@
+{
+  "surveyId": "tXpGMaTM",
+  "description": "UCLA Thoracic: Daily Survey (lung)",
+  "typeformFieldMappings": [
+    {
+      "typeformBlockId": "01H9R5M56HC45KY9D2G7THE7AJ",
+      "factName": "SURVEY_TXPGMATM_Q1",
+      "dataType": "DOUBLE",
+      "mappingType": "LABEL",
+      "labelValuePairs": [
+        {
+          "label": "Yes",
+          "value": "1"
+        },
+        {
+          "label": "No",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "typeformBlockId": "cd0332f1-c285-44ea-9c91-2e5f945eb733",
+      "factName": "SURVEY_TXPGMATM_Q2",
+      "dataType": "DOUBLE",
+      "mappingType": "LABEL",
+      "labelValuePairs": [
+        {
+          "label": "Yes",
+          "value": "1"
+        },
+        {
+          "label": "No",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "typeformBlockId": "cf6ff5d0-fa9a-49ba-bb62-111a3f49a039",
+      "factName": "SURVEY_TXPGMATM_Q3",
+      "dataType": "DOUBLE",
+      "mappingType": "PARSED",
+      "labelValuePairs": []
+    },
+    {
+      "typeformBlockId": "6b90fe8e-64b4-4843-98ee-4c2ddc6c3e5b",
+      "factName": "SURVEY_TXPGMATM_Q4",
+      "dataType": "DOUBLE",
+      "mappingType": "LABEL",
+      "labelValuePairs": [
+        {
+          "label": "Yes",
+          "value": "1"
+        },
+        {
+          "label": "No",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "typeformBlockId": "0dd501b9-d234-4932-9f3c-4c0ffac8300f",
+      "factName": "SURVEY_TXPGMATM_Q5",
+      "dataType": "DOUBLE",
+      "mappingType": "LABEL",
+      "labelValuePairs": [
+        {
+          "label": "Yes",
+          "value": "1"
+        },
+        {
+          "label": "No",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "typeformBlockId": "0b576f6d-8ee9-4cd2-ad49-d953be0b57b8",
+      "factName": "SURVEY_TXPGMATM_Q6",
+      "dataType": "DOUBLE",
+      "mappingType": "PARSED",
+      "labelValuePairs": []
+    }
+  ]
+}
